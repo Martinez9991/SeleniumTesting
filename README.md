@@ -1,1 +1,1 @@
-Learning Selenium repo from 2021 with Java as the base
+Learning Selenium repo from 2021 with Java as it's the base
